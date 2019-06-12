@@ -1,0 +1,12 @@
+.idea/
+bu-common/target/
+bu-product1-composite/target/
+bu-product1-feature1/target/
+bu-product1-featuren/target/
+bu-product1-website/target/
+core-fw/target/
+core-fw-ex/target/
+db-product1/target/
+sdk-platform/target/
+sdk-platform-springboot/target/
+*.iml
